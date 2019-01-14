@@ -1,0 +1,60 @@
+Index: Homework4/index.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Homework4/index.php	(date 1547429202000)
++++ Homework4/index.php	(date 1547429297533)
+@@ -1,5 +1,5 @@
+ <?php
+-$h1 = "<h1>Генерируется Н1.</h1>";
++$h1 = "<h1>Генерируется Н1</h1>";
+ $title = "<title>Генерация страницы из PHP.</title>";
+ $date = "<p>" . date ( 'Y' ) . "</p>";
+ ?>
+Index: Homework5/index.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Homework5/index.php	(date 1547429202000)
++++ Homework5/index.php	(date 1547429297552)
+@@ -1,5 +1,5 @@
+ <?php
+-$h1 = "<h1>Используя только две переменные, поменяйте их значение местами.</h1>";
++$h1 = "<h1>Используя только две переменные, поменяйте их значение местами</h1>";
+ $title = "<title>Используя только две переменные, поменяйте их значение местами.</title>";
+ ?>
+ 
+Index: Homework2/index.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Homework2/index.php	(date 1547429202000)
++++ Homework2/index.php	(date 1547429297545)
+@@ -62,7 +62,7 @@
+ echo $a - $b . '<br>';    // вычитание
+ echo $a / $b . '<br>';  // деление
+ echo $a % $b . '<br>'; // остаток от деления
+-echo $a ** $b . '<br>'; // возведение в степень1
++echo $a ** $b . '<br>'; // возведение в степень
+ ?>
+ <?php
+ $a = 4;
+Index: Homework3/index.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Homework3/index.php	(date 1547429202000)
++++ Homework3/index.php	(date 1547429297576)
+@@ -9,7 +9,7 @@
+ </head>
+ <body>
+ <?php
+-echo "Объяснить, как работает данный код</br>";
++echo "Объяснить, как работает данный код:</br>";
+ ?>
+ <?php
+ $a = 5;
